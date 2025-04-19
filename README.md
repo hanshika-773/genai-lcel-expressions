@@ -3,7 +3,8 @@
 ### AIM:
 To design and implement a LangChain Expression Language (LCEL) expression that utilizes at least two prompt parameters and three key components (prompt, model, and output parser), and to evaluate its functionality by analyzing relevant examples of its application in real-world scenarios.
 
-### PROBLEM STATEMENT:
+### PROBLEM STATEMENT: 
+Design an LCEL pipeline using LangChain with at least two dynamic prompt parameters.  Integrate prompt, model, and output parser components to form a complete expression.  Evaluate its functionality through real-world query-response scenarios.
 
 ### DESIGN STEPS:
 
