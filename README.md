@@ -94,4 +94,5 @@ Complex Chain
 ![Screenshot 2025-03-29 114429](https://github.com/user-attachments/assets/b6ddf47a-cffe-419d-84df-545bdb403874)
 
 
-### RESULT: The implemented LCEL expression takes at least two prompt parameters, processes them using a model, and formats the output with a parser, demonstrating its effectiveness through real-world examples.
+### RESULT: 
+The implemented LCEL expression takes at least two prompt parameters, processes them using a model, and formats the output with a parser, demonstrating its effectiveness through real-world examples.
